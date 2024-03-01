@@ -1,0 +1,146 @@
+body{
+  background-color: black;
+  height: 4000px;
+}
+
+.zp{
+    
+     font-size:26px;   
+     margin-left: 500px;
+     margin-top: 35px;	
+     color: royalblue;      
+}
+
+
+.page1{
+    
+  margin-left: 400px;
+  color:royalblue;    
+}
+
+.page2{
+    
+   color:royalblue;   
+}
+
+.b1{
+  color:royalblue; 
+  margin-left: 130px;
+}
+
+.b2{
+  color:royalblue; 
+  float: left;
+  margin-top: -25px;
+  margin-left: 27%;
+}
+
+.b3{
+  color:royalblue; 
+  float: left;
+  margin-top: -25px;
+  margin-left: 600px;
+  /*position: relative;  left: -543px;*/  
+}
+
+.b4{
+  color:royalblue; 
+  float: left;
+  margin-top: -25px;
+  margin-left: 365px; 
+}
+
+.b5{
+  color:royalblue; 
+  float: left;
+  margin-top: -25px;
+  margin-left: 550px; 
+}
+
+
+.f1{
+     border:3px solid #000000;
+     float: left;
+     height: 100%;
+     margin-left: 10%;
+     margin-bottom: 300px;	
+}
+
+.f2{
+     border:3px solid #000000;
+     float: left;
+     height: 100%;
+     margin-left: 27%;
+     margin-bottom: 280px;	    
+}
+
+.f3{
+     border:3px solid #000000;
+     float: left;
+     height: 740px;
+     margin-left: 4%;
+     margin-bottom: 280px;	    
+}
+
+.f4{
+     border:3px solid #000000;
+     float: left;
+     height: 100%;
+     margin-left: 26%;
+     margin-bottom: 280px;	    
+}
+
+.f5{
+     border:3px solid #000000;
+     float: left;
+     height: 550px;
+     margin-left: 33%;
+     margin-bottom: 280px;	    
+}
+
+.f6{
+     border:3px solid #000000;
+     float: left;
+     height: 550px;
+     margin-left: 18%;
+     margin-bottom: 280px;	    
+}
+
+
+
+
+
+
+
+.q1{
+     float: left;
+     font-size:20px;
+     color: white;
+     margin-top: 51%;
+     margin-left: -76%;     
+}
+
+.w1{
+     float: left;
+     font-size:20px;
+     color: white;
+     margin-top: 51%;
+     margin-left: -56%;     
+}
+
+.e1{
+     float: left;
+     font-size:20px;
+     color: white;
+     margin-top: 51%;
+     margin-left: -36%;
+}
+
+.r1{
+     float: left;
+     font-size:20px;
+     color: white;
+     margin-top: 51%;
+     margin-left: -16%;
+     margin-bottom: 300px;
+}
